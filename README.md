@@ -25,8 +25,8 @@ The purpose of this project to identify five types of physical activities in rea
 
 ### Dataset 
 
-*[Image Datset](https://drive.google.com/file/d/1-Aa4hAYoF5-I430errT_zGitN5EXbGvG/view?usp=sharing)
-*[CSV File](https://drive.google.com/file/d/1oK-M17PRzoNsqKymO4y_wkIApj8zhc86/view?usp=sharing)
+* [Image Datset](https://drive.google.com/file/d/1-Aa4hAYoF5-I430errT_zGitN5EXbGvG/view?usp=sharing)
+* [CSV File](https://drive.google.com/file/d/1oK-M17PRzoNsqKymO4y_wkIApj8zhc86/view?usp=sharing)
   
 
 ## Testing
@@ -36,7 +36,8 @@ Images and Videos -> [Output](https://drive.google.com/drive/folders/1HRDJrmVAcO
 ## Authors
 
 Contributors names and contact info
-[Md Shoreef Uddin](https://www.linkedin.com/in/md-shoreef-uddin-75339422b/)
+* [Md Shoreef Uddin](https://www.linkedin.com/in/md-shoreef-uddin-75339422b/)
 Shoreef.cs@gmail.com
-
+* [Dr Mabrouka Abuhmida](https://www.linkedin.com/in/dr-mabrouka-abuhmida-32b03822/)
+mabrouka.abuhmida@southwales.ac.uk
 
