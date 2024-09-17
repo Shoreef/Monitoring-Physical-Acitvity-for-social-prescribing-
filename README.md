@@ -20,28 +20,23 @@ The purpose of this project to identify five types of physical activities in rea
 ### Installing
 
 * Download and Save the ipynb file in drive
-* Any modifications needed to be made to files/folders
+* Open the ipynb file 
+* Any modifications needed to be made in the ipynb file.
 
-### Executing program
+### Dataset 
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+*[Image Datset](https://drive.google.com/file/d/1-Aa4hAYoF5-I430errT_zGitN5EXbGvG/view?usp=sharing)
+* [CSV File](https://drive.google.com/file/d/1oK-M17PRzoNsqKymO4y_wkIApj8zhc86/view?usp=sharing)
+  
 
-## Help
+## Testing
+[Output](https://drive.google.com/drive/folders/1HRDJrmVAcOKDot_SrefA6vDX3gWkzpdK?usp=sharing)
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+
 
 ## Authors
 
 Contributors names and contact info
+[Md Shoreef Uddin](https://www.linkedin.com/in/md-shoreef-uddin-75339422b/)
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-e
 
